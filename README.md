@@ -1,2 +1,2 @@
-# Artificial_Intelig-nce_Aplication
-O seguinte repositório, se trata de aplicação de modelos de machine learning e classificadores em diferentes datasets.
+# IA
+Repositório destinado ao desenvolvimento de trabalhos relacionados a disciplina de inteligência artificial da Universidade Federal Do Ceará
